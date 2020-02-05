@@ -1,0 +1,11 @@
+C:\Users\barro\source\repos\igpay atinlay\obj\Debug\netcoreapp3.1\igpay atinlay.csprojAssemblyReference.cache
+C:\Users\barro\source\repos\igpay atinlay\obj\Debug\netcoreapp3.1\igpay atinlay.AssemblyInfoInputs.cache
+C:\Users\barro\source\repos\igpay atinlay\obj\Debug\netcoreapp3.1\igpay atinlay.AssemblyInfo.cs
+C:\Users\barro\source\repos\igpay atinlay\bin\Debug\netcoreapp3.1\igpay atinlay.exe
+C:\Users\barro\source\repos\igpay atinlay\bin\Debug\netcoreapp3.1\igpay atinlay.deps.json
+C:\Users\barro\source\repos\igpay atinlay\bin\Debug\netcoreapp3.1\igpay atinlay.runtimeconfig.json
+C:\Users\barro\source\repos\igpay atinlay\bin\Debug\netcoreapp3.1\igpay atinlay.runtimeconfig.dev.json
+C:\Users\barro\source\repos\igpay atinlay\bin\Debug\netcoreapp3.1\igpay atinlay.dll
+C:\Users\barro\source\repos\igpay atinlay\bin\Debug\netcoreapp3.1\igpay atinlay.pdb
+C:\Users\barro\source\repos\igpay atinlay\obj\Debug\netcoreapp3.1\igpay atinlay.dll
+C:\Users\barro\source\repos\igpay atinlay\obj\Debug\netcoreapp3.1\igpay atinlay.pdb
